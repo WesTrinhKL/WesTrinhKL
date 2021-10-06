@@ -2,8 +2,8 @@
 
 I'm a fun guy, I enjoy designing whether it is UI/UX 🖋, database 📂, or anything else! Oh yeah, I also love building projects from front to back, CSS enthusiast 🎨, and exploring new technologies 📱. I'm also a big NBA fan 🏀, but you'll have to ask me more questions in order for me to give ya the whole spill, hahaha 😉. Feel free to message me! 
 
-- A cool little personal project that I am currently working on: <a href="https://frontlinecards.herokuapp.com/">Active Cards</a> 📇
-- I love working with ohers, here's a little project I did with a group of amazing teammates: <a href="https://hotpotato-app.herokuapp.com/">hotpotato</a> 🥔
+- A cool little personal project that I am currently working on: <a href="https://frontlinecards.herokuapp.com/" target="_blank">Active Cards</a> 📇
+- I love working with ohers, here's a little project I did with a group of amazing teammates: <a href="https://hotpotato-app.herokuapp.com/" target="_blank">hotpotato</a> 🥔
 - I'm Based in Southern California ⛅
 
 ## Contacts
