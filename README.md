@@ -7,6 +7,6 @@ I'm a fun guy, I enjoy designing whether it is UI/UX 🖋, database 📂, or any
 - I'm Based in Southern CA ⛅
 
 ## Contacts
-- email: westrinh00@gmail.com ✉
+- westrinh00@gmail.com ✉
 - <a href="https://www.linkedin.com/in/wes-trinh-28b526220/">LinkedIn</a> 🤵
 - <a href="https://westrinhkl.github.io/">Website</a> 💻
